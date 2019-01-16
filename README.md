@@ -5,14 +5,14 @@
 
 ## Project Repos
 
-- [SassDoc Theme](https://github.com/emory-libraries/sassdoc-theme-emory-libraries)
-- [Sass Framework](https://github.com/emory-libraries/template-sass)
-- [Pattern Library](https://github.com/emory-libraries/Pattern-Library)
-- [Style Guide](https://github.com/emory-libraries/style-guide-guide)
-- [Templating Engine](https://github.com/emory-libraries/templating-engine)
-- [Blogs](https://github.com/emory-libraries/blogs)
-- [News](https://github.com/emory-libraries/news)
-- [Root Assets](https://github.com/emory-libraries/website-root-assets)
+- [SassDoc Theme](https://github.com/emory-libraries/sassdoc-theme-emory-libraries) `sassdoc-theme-emory-libraries`
+- [Sass Framework](https://github.com/emory-libraries/template-sass) `template-sass`
+- [Pattern Library](https://github.com/emory-libraries/Pattern-Library) `Pattern-Library`
+- [Style Guide](https://github.com/emory-libraries/style-guide-guide) `style-guide-guide`
+- [Templating Engine](https://github.com/emory-libraries/templating-engine) `templating-engine`
+- [Blogs](https://github.com/emory-libraries/blogs) `blogs`
+- [News](https://github.com/emory-libraries/news) `news`
+- [Root Assets](https://github.com/emory-libraries/website-root-assets) `website-root-assets`
 
 ### Our Ecosystem
 
